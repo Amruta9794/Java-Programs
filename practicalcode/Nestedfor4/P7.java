@@ -1,10 +1,10 @@
 class Pattern{
 	public static void main(String[] args) {
-		char r=6;
+		char r=5;
 		int row=6;
 		int N=1;
 		char a='A';
-		char ch=(char) r+(char) a;
+		char ch=(char) (r + a);
 	
 		char chc;
 	
