@@ -1,5 +1,5 @@
 import java.io.*;
-class NestedFor46{
+class NestedFor56{
 	public static void main(String[] args)throws IOException{
 
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
