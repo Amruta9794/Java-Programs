@@ -1,6 +1,6 @@
 import java.io.*;
 
-import javax.swing.plaf.synth.SynthDesktopIconUI;
+
 public class NestedLoop67 {
     public static void main(String[] args)throws IOException {
 
